@@ -1,0 +1,1 @@
+{"data":{"count":1,"count_end_ts":1648901940,"count_start_ts":1648888260,"gps_data":[{"gps_acc":65.0,"gps_ts":1648888799,"lat":22.322736,"lng":114.16749,"lost":1,"rmac":"e64c8P1K8kIxju7jUIEUy5xMTD8VTN-IOS","rssi":-87,"tmac":"111965","ts":1648888802}],"targetId":"111965"},"success":true}
